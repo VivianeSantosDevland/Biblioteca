@@ -1,0 +1,130 @@
+﻿
+#form1 {
+    height: 768px;
+    width: 1024px;
+    
+}
+
+#form2 {
+    height: 1356px;
+    width: 1024px;
+}
+#form3 {
+    height: 1134px;
+    width: 1024px;
+}
+#form4 {
+    height: 1166px;
+    width: 1024px;
+}
+
+body {
+   background-image: url('../Imagens/librar2.png');
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12pt;
+    height: 1071px;
+    width: 102%;
+    align-content: center;
+}
+
+#na{
+    text-align: center;
+   align-content:center;
+    margin-right: 1.25px;
+    margin-left: 341px;
+}
+
+#cabecalho {
+    text-align: center;
+    background-color: #e1c6c6;
+    margin-right: 20%;
+    margin-left: 20%;
+    width: 921px;
+    height: 187px;
+    margin-top: 0px;
+}
+
+
+#menu {
+    border: thin solid Black;
+    float: left;
+    width: 15%;
+    height: 2%;
+    margin-top: 5%;
+    background-color: red;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+
+#corpoprincipal {
+    position: relative;
+    text-align: center;
+    background-color:White;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+    height: 127%;
+    width: 90%;
+    padding-top: 4px;
+    top: 3px;
+    left: -2px;
+}
+#p
+{
+    text-indent: 30px;
+    text-align: center;
+}
+
+#rodape {
+    height: 58px;
+    width: 1020px;
+    margin-left: 4px;
+    margin-bottom: 0px;
+}
+h1.titulo
+{
+    font-family: Calibri;
+    text-align: center;
+      padding: 5px;
+    width: 342px;
+    height: 19px;
+    margin-left: 349px;
+}
+#img {
+    text-align: left;
+    width: 236px;
+    margin: 2px;
+    height: 124px;
+    float: left;
+    top: 18px;
+    left: -4px;
+}
+
+#menu {
+    display: inline-block;
+    width: 890px;
+    text-align: justify;
+    list-style: none;
+    text-transform: uppercase;
+   
+}
+.conteudo {
+    background-color: #e0c7c7;
+    width: 85%;
+    height: 96%;
+    margin-left: 170px;
+    margin-top: 44px;
+    margin-right: 32px;
+}
+.botoes {
+    position: relative;
+    align-items: center;
+    width: 465px;
+    margin-left: 12px;
+    top: -616px;
+    left: 754px;
+    height: 71px;
+    margin-right: 0px;
+    margin-top: 0px;
+}

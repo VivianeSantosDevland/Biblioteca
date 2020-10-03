@@ -1,0 +1,30 @@
+c:\users\aluno\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Biblioteca.dll
+c:\users\aluno\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Biblioteca.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\aluno\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\aluno\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Vivian\Desktop\Biblioteca-20171122T173000Z-001\Biblioteca\Biblioteca\bin\Biblioteca.dll.config
+C:\Users\Vivian\Desktop\Biblioteca-20171122T173000Z-001\Biblioteca\Biblioteca\bin\Biblioteca.dll
+C:\Users\Vivian\Desktop\Biblioteca-20171122T173000Z-001\Biblioteca\Biblioteca\bin\Biblioteca.pdb
+C:\Users\Vivian\Desktop\Biblioteca-20171122T173000Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Vivian\Desktop\Biblioteca-20171122T173000Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Vivian\Desktop\Biblioteca-20171122T173000Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Vivian\Desktop\Biblioteca-20171122T173000Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\aluno\Desktop\Cláudia_e_Viviane\Biblioteca-20171124T215716Z-001\Biblioteca\Biblioteca\bin\Biblioteca.dll
+C:\Users\aluno\Desktop\Cláudia_e_Viviane\Biblioteca-20171124T215716Z-001\Biblioteca\Biblioteca\bin\Biblioteca.pdb
+C:\Users\aluno\Desktop\Cláudia_e_Viviane\Biblioteca-20171124T215716Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Cláudia_e_Viviane\Biblioteca-20171124T215716Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\aluno\Desktop\Cláudia_e_Viviane\Biblioteca-20171124T215716Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\aluno\Downloads\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\aluno\Downloads\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\aluno\Downloads\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\bin\Biblioteca.dll
+C:\Users\aluno\Downloads\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\bin\Biblioteca.pdb
+I:\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+I:\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+I:\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+I:\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\bin\Biblioteca.dll.config
+I:\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\bin\Biblioteca.dll
+I:\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\bin\Biblioteca.pdb
+I:\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\bin\MySql.Data.dll
+I:\Biblioteca-20171201T224520Z-001\Biblioteca\Biblioteca\bin\MySql.Data.xml
